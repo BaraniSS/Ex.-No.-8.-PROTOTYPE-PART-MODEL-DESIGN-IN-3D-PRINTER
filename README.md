@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/bd5fc634-c688-479b-98c0-d1bc57e9e422)
+
+
+### Name:BARANI S S
+### Register Number:24900119
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
